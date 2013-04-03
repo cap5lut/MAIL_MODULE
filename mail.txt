@@ -1,0 +1,5 @@
+Check your mails
+<highlight><tab><symbol>checkmails<end>
+
+Send a mail
+<highlight><tab><symbol>mail 'recipient' 'message'<end>
